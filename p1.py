@@ -5,7 +5,7 @@ import plotly.express as px
 import plotly.graph_objects as go
 import matplotlib.pyplot as plt
 
-
+#importing the csv data 
 data = pd.read_csv("C:\\Users\\cheta\\OneDrive\\Desktop\\3rdRecord\\PyProject\\apple.csv")
 
 # heads prints
